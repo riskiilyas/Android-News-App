@@ -12,20 +12,10 @@
  </p>
 
 ## Components
-- View Pager2
+- MVVM with Navigation Fragment
+- Clean Architecture
+- Retrofit with News API
+- Room DB
+- Kotlin Coroutines
+- Dagger Hilt
 - Glide
-- Dots Indicator
-- Room-Coroutine
-- Lottie
-- Circle Image
-- Data Binding
-- RecyclerView
-- SharedPreferences
-- Firebase-RealDatabase
-- Firebase-Push Notification
-- Retrofit(Moshi)-Coroutine
-- LiveData
-- View Model
-- Navigation
-- Android Youtube Player
-- Okhttp3
