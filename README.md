@@ -4,9 +4,10 @@
 ## Logo
 <img src="https://github.com/riskiilyas/Android-News-App/blob/master/app/src/main/res/drawable/newsappicon.png" width="100"/>
   
-## Gameplay
-<img src="https://github.com/riskiilyas/Sciroper-Android-Game/blob/master/assets/ss_light.png"/>
-<img src="https://github.com/riskiilyas/Sciroper-Android-Game/blob/master/assets/ss_dark.png"/>
+## Screenshots
+<img src="https://github.com/riskiilyas/Android-News-App/blob/master/assets/fe6c32cc-1238-43a3-8634-80e0e103e706.jpg" width="200"/>
+<img src="https://github.com/riskiilyas/Android-News-App/blob/master/assets/6c96693c-e292-406e-931b-c82ea9cf2ee1.jpg" width="200"/>
+<img src="https://github.com/riskiilyas/Android-News-App/blob/master/assets/4df103fe-719a-4f8e-a02f-9e0dc5fd21b7.jpg" width="200"/>
 
 ## Components
 - View Pager2
