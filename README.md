@@ -19,3 +19,4 @@
 - Kotlin Coroutines
 - Dagger Hilt
 - Glide
+- WebView
